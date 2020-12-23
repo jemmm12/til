@@ -32,3 +32,12 @@ $ git push origin master
 ```
 
 * `origin` 저장소의 `master` 브랜치로 `push`
+
+## 4. `pull`
+
+* 원격 저장소(origin)의 변경 사항을 받아옴
+
+## 5. `clone`
+
+* 원격 저장소를 복제함
+

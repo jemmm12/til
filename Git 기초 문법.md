@@ -47,6 +47,17 @@ Initialized empty Git repository in C:/Users/JM/Desktop/정리/.git/
 > 커밋을 위한 파일 목록(staging area)
 
 ```bash
+$ git add .
+$ git add a.txt
+$ git add a.txt b.txt
+$ git add md-images/
+```
+
+
+
+
+
+```bash
 $ touch test.txt
 ```
 
